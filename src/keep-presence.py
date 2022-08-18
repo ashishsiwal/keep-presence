@@ -18,7 +18,7 @@ MOUSE_DIRECTION_DELTA = 0
 RAND_INTERVAL_START = 0
 RAND_INTERVAL_STOP = 0
 
-move_mouse_every_seconds = 300
+move_mouse_every_seconds = 30
 mouse_direction = 0
 
 
